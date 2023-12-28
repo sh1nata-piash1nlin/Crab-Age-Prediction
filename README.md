@@ -8,6 +8,7 @@
 + The dataset I collected is from Kaggle.
 + For more information: https://www.kaggle.com/competitions/playground-series-s3e16
 # MODEL
+I use 4 models in this problem: 
 + GradientBoosting </br>
   Gradient Boosting Regressor is a machine learning algorithm that belongs to the ensemble learning family. Specifically, it is part of the gradient boosting framework, which builds a series of weak learners (typically decision trees) sequentially, with each one attempting to correct the errors made by the previous ones. The weak learners are combined to create a strong predictive model. Here is the GradientBoosting’s  algorithm: 
 + Extreme Gradient Boosting (XGBoost) </br>
