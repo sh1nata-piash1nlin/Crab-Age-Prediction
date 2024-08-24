@@ -6,6 +6,13 @@
 # DATASET 
 + The dataset I collected is from Kaggle.
 + For more information: https://www.kaggle.com/competitions/playground-series-s3e16
+# DATA PREPROCESSING 
++ Distribution:
+  ![image](https://github.com/user-attachments/assets/2dd0d9ac-a21b-495e-ab40-5de55ccda5f4)
+
++ Correlation Matrix:
+  ![image](https://github.com/user-attachments/assets/7f513385-1934-46a7-9912-39edd592f78c)
+
 # MODEL
 I use 4 models in this problem by using LazyPredict library: 
 ![image](https://github.com/user-attachments/assets/5dcebc21-1ae0-41ad-8f8a-85dba9e81cdf)
@@ -14,4 +21,9 @@ I use 4 models in this problem by using LazyPredict library:
 + Extreme Gradient Boosting (XGBoost) </br>
 +  Histogram-based Gradient Boosting (HistGradientBoosting) </br>
 + Light Gradient Boosting Machine (LGBM) </br>
-#
+# PROCESSING
+In this dataset, I will use a bunch of Machine Learning methods like: Hyper Parameters tunning, Feature Selection for each model. 
+# EVALUATION 
++ Metrics: RSME, MAE, R2
+  ![image](https://github.com/user-attachments/assets/8b5c53f3-6b09-4da5-a305-4cf15784fde6)
+
