@@ -1,4 +1,3 @@
-# Basic-Machine-Learning-Project
 # Crab Age Prediction
 #### This is only for practice purposes. For more details, read my code. 
 # OVERVIEW AND INSPIRATION 
@@ -8,9 +7,11 @@
 + The dataset I collected is from Kaggle.
 + For more information: https://www.kaggle.com/competitions/playground-series-s3e16
 # MODEL
-I use 4 models in this problem: 
+I use 4 models in this problem by using LazyPredict library: 
+![image](https://github.com/user-attachments/assets/5dcebc21-1ae0-41ad-8f8a-85dba9e81cdf)
+
 + GradientBoosting </br>
 + Extreme Gradient Boosting (XGBoost) </br>
 +  Histogram-based Gradient Boosting (HistGradientBoosting) </br>
 + Light Gradient Boosting Machine (LGBM) </br>
- 
+#
